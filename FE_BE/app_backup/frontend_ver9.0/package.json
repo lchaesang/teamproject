@@ -60,7 +60,7 @@
     "react-bootstrap": "^1.0.0-beta.10",
     "react-button-loaders": "0.0.1",
     "react-day-picker": "^7.3.2",
-    "react-dev-utils": "^9.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "react-loading-overlay": "^1.0.1",
